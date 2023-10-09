@@ -1,0 +1,7 @@
+x = input("escreva algo: ")
+print(f"irei dizer alguns tipos de {x}")
+print("tipo de", x, "é", type(x))
+print(x.isalnum(), "é numero ou letra")
+print("esta maiusculo?", x.isupper())
+print('é letra?', x.isalpha())
+print("é numerico", x.isnumeric())
