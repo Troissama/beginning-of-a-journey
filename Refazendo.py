@@ -1,0 +1,5 @@
+dia = input('Digite o Dia')
+mes = input('Digite o Mes')
+ano = input('Digite o ano')
+s=(dia+mes+ano)
+print('voce nasceu'),(s))
